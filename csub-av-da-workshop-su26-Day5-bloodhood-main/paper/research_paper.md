@@ -1,7 +1,9 @@
 # Stroke Risk Factor Analysis: A Statistical Study of Clinical Predictors
 
 Authors Alex Ruder, Taija Grace
+
 Institution Kyu Lee
+
 Date: June 2026
 
 ---
